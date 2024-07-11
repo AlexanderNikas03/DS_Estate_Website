@@ -1,0 +1,107 @@
+.homeListings {
+    font-size: 2.2rem; 
+    font-weight: 600; 
+    color: #3270b3; 
+    margin-top: 20px; 
+    text-align: center; 
+    position: relative; 
+}
+
+.homeListings::before,
+.homeListings::after {
+    margin: 45px auto; 
+    content: '';
+    position: absolute;
+    height: 2px; 
+    background-color: #cce6ff; 
+    width: 60%; 
+}
+
+.homeListings::before {
+    top: 0; 
+    right: 0; 
+}
+
+.homeListings::after {
+    bottom: 0; 
+    left: 0; 
+}
+
+
+.propertyListings {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px; 
+}
+
+.propertyCard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 600px; 
+    max-width: 100%; 
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    margin: auto;
+    transition: transform 0.3s ease, background-color 0.3s ease; 
+}
+
+
+.propertyCard:hover {
+    transform: translateY(-5px); 
+    background-color: #cce6ff; 
+}
+
+
+.propertyCard img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.propertyCard h2 {
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+    font-size: 2rem; 
+}
+
+.propertyCard p {
+    text-align: left; 
+    margin-bottom: 15px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px; 
+    background-color: #ec8c0e;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+@media only screen and (max-width: 768px) {
+    .propertyCard {
+        width: 100%; 
+        max-width: 400px; 
+    }
+
+    .propertyCard h2 {
+        font-size: 1.5rem; 
+    }
+
+    @media only screen and (max-width: 768px) {
+        .homeListings::before,
+        .homeListings::after {
+            width: 60%; 
+            max-width: 100%;
+        }
+    }
+}

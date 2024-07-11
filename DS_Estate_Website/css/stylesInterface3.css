@@ -1,0 +1,102 @@
+.listingBox {
+    max-width: 600px; 
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.listingBox .propertyDetails {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.listingBox .propertyDetails img {
+    width: 100%;
+    max-width: 400px; /* Set a maximum width */
+    max-height: 300px; /* Set a maximum height */
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.listingBox .propertyDetails h2 {
+    font-size: 2rem;
+    margin: 10px 0;
+}
+
+.listingBox .propertyDetails p {
+    font-size: 1.6rem;
+    margin: 5px 0;
+    color: #0d4989;
+}
+
+.listingBox form {
+    margin-top: 20px;
+}
+
+.listingBox form div {
+    margin-bottom: 15px;
+}
+
+.listingBox label {
+    display: block;
+    font-size: 1.6rem;
+    color: #0d4989;
+    margin-bottom: 5px;
+}
+
+.listingBox input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1.6rem;
+}
+
+.listingBox button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ec8c0e;
+    color: white;
+    font-size: 1.6rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.listingBox button:hover {
+    background-color: #e67300;
+}
+
+.listingBox button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.listingBox .error, .listingBox .success {
+    max-width: 600px; 
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.listingBox .error {
+    border: 1px solid #721c24;
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+.listingBox .success {
+    border: 1px solid #155724;
+    background-color: #d4edda;
+    color: #155724;
+}
