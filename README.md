@@ -70,6 +70,7 @@ To get this project up and running on your local machine, follow these steps (or
 - Desktop view of the Home Page
 ![Image 1](DS_Estate_Website/ImagesforReadme/image1.png)
 
+
 - Mobile view of the Home Page
 ![Image 2](ImagesforReadme/image2.png)
 
