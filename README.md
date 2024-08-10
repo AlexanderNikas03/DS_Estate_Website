@@ -68,7 +68,7 @@ To get this project up and running on your local machine, follow these steps (or
 ## Screenshots
 
 - Desktop view of the Home Page
-![Image 1](DS_Estate_Website/ImagesforReadme/image1.png)
+![Image 1](image1.png)
 
 
 - Mobile view of the Home Page
