@@ -81,7 +81,7 @@ Mobile view of the Home Page
 ![Image 4](ImagesforReadme/image4.png)
 
 - First view of the Reserve Page
-![Image 5](ImagesforReadme/image5.png)
+https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image5.png
 
 - Second view of the Reserve Page
 ![Image 6](ImagesforReadme/image6.png)
