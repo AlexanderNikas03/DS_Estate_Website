@@ -68,27 +68,26 @@ To get this project up and running on your local machine, follow these steps (or
 ## Screenshots
 
 Desktop view of the Home Page
-![Image 1](image1.png)
-
+![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image1.png)
 
 Mobile view of the Home Page
-![Image 2](ImagesforReadme/image2.png)
+![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image2.png)
 
  Login Page
-![Image 3](/ImagesforReadme/image3.png)
+![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image3.png)
 
 - Register Page
-![Image 4](ImagesforReadme/image4.png)
+![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image4.png)
 
 - First view of the Reserve Page
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image5.png)
 
 - Second view of the Reserve Page
-![Image 6](ImagesforReadme/image6.png)
-![Image 7](ImagesforReadme/image7.png)
+![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image6.png)
+![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image7.png)
 
 - Create Listing Page
-![Image 8](ImagesforReadme/image8.png)
+![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image8.png)
 
 For the complete experience, please run the project. These are just a few example screenshots to give you a sense of the website.
 
