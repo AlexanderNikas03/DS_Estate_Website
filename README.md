@@ -43,7 +43,7 @@ To get this project up and running on your local machine, follow these steps (or
    - Place the project files in your server's root directory (e.g., `htdocs` for XAMPP).
 
 4. **Configure the database:**
-   - Import the provided `database.sql` file into your MySQL database.
+   - Import the provided `ds_estate.sql` file into your MySQL database.
 
 5. **Run the project:**
    - Start your local server and access the project via your browser at `http://localhost/php/index.php`.
