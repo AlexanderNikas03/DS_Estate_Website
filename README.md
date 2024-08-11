@@ -67,14 +67,14 @@ To get this project up and running on your local machine, follow these steps (or
 
 ## Screenshots
 
-- Desktop view of the Home Page
+Desktop view of the Home Page
 ![Image 1](image1.png)
 
 
-- Mobile view of the Home Page
+Mobile view of the Home Page
 ![Image 2](ImagesforReadme/image2.png)
 
-- Login Page
+ Login Page
 ![Image 3](/ImagesforReadme/image3.png)
 
 - Register Page
