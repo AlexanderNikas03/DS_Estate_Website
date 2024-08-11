@@ -30,12 +30,12 @@ To get this project up and running on your local machine, follow these steps (or
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/real-estate-booking-system.git
+   https://github.com/AlexanderNikas03/DS_Estate_Website.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd real-estate-booking-system
+   cd DS_Estate_Website
    ```
 
 3. **Set up your environment:**
