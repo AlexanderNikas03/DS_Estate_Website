@@ -75,7 +75,7 @@ To get this project up and running on your local machine, follow these steps (or
 ![Image 2](ImagesforReadme/image2.png)
 
 - Login Page
-![Image 3](ImagesforReadme/image3.png)
+![Image 3](/ImagesforReadme/image3.png)
 
 - Register Page
 ![Image 4](ImagesforReadme/image4.png)
