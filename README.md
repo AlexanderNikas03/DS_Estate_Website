@@ -68,25 +68,32 @@ To get this project up and running on your local machine, follow these steps (or
 ## Screenshots
 
 - Desktop view of the Home Page
+  
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image1.png)
 
 - Mobile view of the Home Page
+  
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image2.png)
 
 - Login Page
+  
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image3.png)
 
 - Register Page
+  
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image4.png)
 
 - First view of the Reserve Page
+  
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image5.png)
 
 - Second view of the Reserve Page
+
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image6.png)
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image7.png)
 
 - Create Listing Page
+  
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image8.png)
 
 For the complete experience, please run the project. These are just a few example screenshots to give you a sense of the website.
