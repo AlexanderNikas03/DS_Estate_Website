@@ -67,13 +67,13 @@ To get this project up and running on your local machine, follow these steps (or
 
 ## Screenshots
 
-Desktop view of the Home Page
+- Desktop view of the Home Page
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image1.png)
 
-Mobile view of the Home Page
+- Mobile view of the Home Page
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image2.png)
 
- Login Page
+- Login Page
 ![output](https://github.com/AlexanderNikas03/DS_Estate_Website/blob/main/ImagesforReadme/Image3.png)
 
 - Register Page
