@@ -106,4 +106,4 @@ In evaluating the current implementation, several areas for future improvements 
 2. **Admin Panel:** Developing an admin interface to manage properties, reservations, and users more effectively.
 3. **Payment Integration:** Adding a payment gateway to allow users to make payments directly through the platform.
 4. **User Profile:** Allowing users to view and manage their past and upcoming reservations.
-5. **Multilingual Support:** Implementing support for multiple languages to cater to a broader audience.
+5. **Enhanced User Experience:** Focused on improving the visual design and overall aesthetics to create a more engaging and beautiful website.
